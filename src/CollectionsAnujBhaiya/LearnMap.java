@@ -65,7 +65,7 @@ public class LearnMap {
         //To check if a map is empty or not
         System.out.println(numbers.isEmpty());
 
-        //To clear, clear()
+        //To clear, we use method clear()
 
         //TREEMAP
         // // under the hood, the Treemap entries the data in a binary search tree, so the order will be now sorted on the basis of Keys
